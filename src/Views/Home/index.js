@@ -105,20 +105,12 @@ const Home= () => {
                                 </div>
                                 <div className="col-4 text-center">
                                     <img alt='' src= {ImgDistribution} className="icon-image-rubros" />
-<<<<<<< HEAD
-                                    <p className="text-icon-rubros">Tipo de Raza</p>
-=======
                                     <p className="text-icon-rubros">Tipos de Razas</p>
->>>>>>> 6efa8cf (first commit)
                                 </div>
                                 <div className="col-4 text-center mt-2">
                                     <img alt='' src= {ImgCallCenter} className="icon-image-rubros" />
                                     <p className="text-icon-rubros">
-<<<<<<< HEAD
-                                       Debilidad
-=======
                                        Debilidades
->>>>>>> 6efa8cf (first commit)
                                     </p>
                                 </div>
                                 <div className="col-4 text-center mt-2">
@@ -127,11 +119,7 @@ const Home= () => {
                                 </div>
                                 <div className="col-4 text-center mt-2">
                                     <img alt='' src= {ImgOperaction} className="icon-image-rubros" />
-<<<<<<< HEAD
-                                    <p className="text-icon-rubros">Conoce mas de ellos</p>
-=======
                                     <p className="text-icon-rubros">Conoce mas sobre ellos</p>
->>>>>>> 6efa8cf (first commit)
                                 </div>
                             </div>
                         </div>
@@ -143,22 +131,14 @@ const Home= () => {
                 <div className="col-12 col-md-8 container-no-padding">
                             <div className="row row-no-magin container-no-padding">
                                 <div className="col-12 container-no-padding">
-<<<<<<< HEAD
-                                    <h1 className='h1-tittle-carousel'>Trabajamos con las empresas más reconocidas del país</h1>
-=======
                                     <h1 className='h1-tittle-carousel'>Conoce mas sobre ellos</h1>
->>>>>>> 6efa8cf (first commit)
                                 </div>
                             </div >
                             <div id="carouselExampleSlidesOnly" 
                                 className="carousel slide my-0" 
                                 width="100"  
-<<<<<<< HEAD
-                                data-interval="3500" data-ride="carousel"
-=======
                                 data-interval="2500" 
                                 data-ride="carousel"  
->>>>>>> 6efa8cf (first commit)
                             >            
                             <div className="carousel-inner h-slide-custom mobile-car">
                                 <div className="carousel-item active">

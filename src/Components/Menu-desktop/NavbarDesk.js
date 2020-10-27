@@ -73,7 +73,6 @@ function NavbarDesk(props) {
                     </li>
                   )
               }
-              
           </ul>
         </nav>
       </IconContext.Provider>

@@ -40,12 +40,12 @@ import '../../index.css'
 
 const DesktopCarrusel = () => {
     return (
-            <div id="carouselExampleSlidesOnly" 
-                className="carousel slide my-0" 
-                width="100"  
-                data-interval="3000" 
-                data-ride="carousel"  
-            >               
+                <div id="carouselExampleSlidesOnly" 
+                    className="carousel slide my-0" 
+                    width="100"  
+                    data-interval="3000" 
+                    data-ride="carousel"  
+                >           
                 <div className="carousel-inner h-slide-custom">
                     <div className="carousel-item active">
                         <div className="row w-100 mx-auto">
